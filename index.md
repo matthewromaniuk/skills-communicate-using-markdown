@@ -7,3 +7,6 @@ updated index.md file to include header
 ``` javascript
 var test = "Testing";
 ```
+- [X] test list (completed)
+- [ ] test list (uncomplete)
+
